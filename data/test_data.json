@@ -1,0 +1,22 @@
+{
+  "create_user_success" : [
+    {
+      "username": "张三丰",
+      "role": "member"
+    },
+    {
+      "username": "李四光",
+      "role": "admin"
+    }
+  ],
+  "create_user_fail" : [
+    {
+      "username": "a",
+      "role": "member"
+    },
+    {
+      "username": "王五",
+      "role": "superadmin"
+    }
+  ]
+}
